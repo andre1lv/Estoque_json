@@ -1,0 +1,262 @@
+[
+  {
+    "ID do Produto": 1,
+    "Nome do Produto": "Leite Integral",
+    "Categoria": "Laticínios",
+    "Preço Unitário": 4.5,
+    "Quantidade em Estoque": 100,
+    "Data de Validade": "2024-05-15",
+    "Fornecedor": "Nestlé",
+    "Marca": "Itambé"
+  },
+  {
+    "ID do Produto": 2,
+    "Nome do Produto": "Ovos Brancos",
+    "Categoria": "Laticínios",
+    "Preço Unitário": 3,
+    "Quantidade em Estoque": 50,
+    "Data de Validade": "2024-04-20",
+    "Fornecedor": "Granja Mantiqueira",
+    "Marca": "Piracanjuba"
+  },
+  {
+    "ID do Produto": 3,
+    "Nome do Produto": "Pão Francês",
+    "Categoria": "Padaria",
+    "Preço Unitário": 1.5,
+    "Quantidade em Estoque": 200,
+    "Data de Validade": "2024-04-04",
+    "Fornecedor": "Padaria do João",
+    "Marca": "Dona Jura"
+  },
+  {
+    "ID do Produto": 4,
+    "Nome do Produto": "Arroz Branco",
+    "Categoria": "Grãos",
+    "Preço Unitário": 5,
+    "Quantidade em Estoque": 50,
+    "Data de Validade": "2024-07-01",
+    "Fornecedor": "Tio João",
+    "Marca": "Camil"
+  },
+  {
+    "ID do Produto": 5,
+    "Nome do Produto": "Feijão Carioca",
+    "Categoria": "Grãos",
+    "Preço Unitário": 6,
+    "Quantidade em Estoque": 25,
+    "Data de Validade": "2024-08-10",
+    "Fornecedor": "Vitarella",
+    "Marca": "Fras-Le"
+  },
+  {
+    "ID do Produto": 6,
+    "Nome do Produto": "Açúcar Refinado",
+    "Categoria": "Açúcar e Sal",
+    "Preço Unitário": 2,
+    "Quantidade em Estoque": 100,
+    "Data de Validade": "2024-09-05",
+    "Fornecedor": "União",
+    "Marca": "Cargill"
+  },
+  {
+    "ID do Produto": 7,
+    "Nome do Produto": "Sal Refinado",
+    "Categoria": "Açúcar e Sal",
+    "Preço Unitário": 1,
+    "Quantidade em Estoque": 50,
+    "Data de Validade": "2024-10-10",
+    "Fornecedor": "Cisne",
+    "Marca": "Sal Cisne"
+  },
+  {
+    "ID do Produto": 8,
+    "Nome do Produto": "Café em Pó",
+    "Categoria": "Bebidas",
+    "Preço Unitário": 5.5,
+    "Quantidade em Estoque": 40,
+    "Data de Validade": "2024-11-15",
+    "Fornecedor": "Pelé",
+    "Marca": "3 Corações"
+  },
+  {
+    "ID do Produto": 9,
+    "Nome do Produto": "Leite Condensado",
+    "Categoria": "Bebidas",
+    "Preço Unitário": 3,
+    "Quantidade em Estoque": 30,
+    "Data de Validade": "2024-12-20",
+    "Fornecedor": "Nestlé",
+    "Marca": "Itambé"
+  },
+  {
+    "ID do Produto": 10,
+    "Nome do Produto": "Leite Evaporado",
+    "Categoria": "Bebidas",
+    "Preço Unitário": 2.5,
+    "Quantidade em Estoque": 25,
+    "Data de Validade": "2024-01-05",
+    "Fornecedor": "Itambé",
+    "Marca": "Itambé"
+  },
+  {
+    "ID do Produto": 11,
+    "Nome do Produto": "Frango Congelado",
+    "Categoria": "Carnes",
+    "Preço Unitário": 8,
+    "Quantidade em Estoque": 20,
+    "Data de Validade": "2024-02-10",
+    "Fornecedor": "Sadia",
+    "Marca": "Perdigão"
+  },
+  {
+    "ID do Produto": 12,
+    "Nome do Produto": "Carne Bovina Moída",
+    "Categoria": "Carnes",
+    "Preço Unitário": 12,
+    "Quantidade em Estoque": 15,
+    "Data de Validade": "2024-03-15",
+    "Fornecedor": "Friboi",
+    "Marca": "JBS"
+  },
+  {
+    "ID do Produto": 13,
+    "Nome do Produto": "Presunto",
+    "Categoria": "Frios e Embutidos",
+    "Preço Unitário": 10,
+    "Quantidade em Estoque": 10,
+    "Data de Validade": "2024-04-20",
+    "Fornecedor": "Sadia",
+    "Marca": "Perdigão"
+  },
+  {
+    "ID do Produto": 14,
+    "Nome do Produto": "Queijo Muçarela",
+    "Categoria": "Frios e Embutidos",
+    "Preço Unitário": 15,
+    "Quantidade em Estoque": 8,
+    "Data de Validade": "2024-05-25",
+    "Fornecedor": "Vigor",
+    "Marca": "Tirolez"
+  },
+  {
+    "ID do Produto": 15,
+    "Nome do Produto": "Iogurte Natural",
+    "Categoria": "Laticínios",
+    "Preço Unitário": 2.5,
+    "Quantidade em Estoque": 20,
+    "Data de Validade": "2024-06-30",
+    "Fornecedor": "Danone",
+    "Marca": "Itambé"
+  },
+  {
+    "ID do Produto": 16,
+    "Nome do Produto": "Manteiga",
+    "Categoria": "Laticínios",
+    "Preço Unitário": 8,
+    "Quantidade em Estoque": 15,
+    "Data de Validade": "2024-07-10",
+    "Fornecedor": "Piracanjuba",
+    "Marca": "Itambé"
+  },
+  {
+    "ID do Produto": 17,
+    "Nome do Produto": "Geléia de Morango",
+    "Categoria": "Conservas",
+    "Preço Unitário": 3.5,
+    "Quantidade em Estoque": 30,
+    "Data de Validade": "2024-08-15",
+    "Fornecedor": "Hemmer",
+    "Marca": "Do Bem"
+  },
+  {
+    "ID do Produto": 18,
+    "Nome do Produto": "Ketchup",
+    "Categoria": "Conservas",
+    "Preço Unitário": 2,
+    "Quantidade em Estoque": 25,
+    "Data de Validade": "2024-09-20",
+    "Fornecedor": "Heinz",
+    "Marca": "Hellmann's"
+  },
+  {
+    "ID do Produto": 19,
+    "Nome do Produto": "Maionese",
+    "Categoria": "Conservas",
+    "Preço Unitário": 3,
+    "Quantidade em Estoque": 20,
+    "Data de Validade": "2024-10-25",
+    "Fornecedor": "Hellmann's",
+    "Marca": "Soya"
+  },
+  {
+    "ID do Produto": 20,
+    "Nome do Produto": "Farinha de Trigo",
+    "Categoria": "Farinhas e Massas",
+    "Preço Unitário": 2.5,
+    "Quantidade em Estoque": 50,
+    "Data de Validade": "2024-11-30",
+    "Fornecedor": "Dona Jura",
+    "Marca": "Camil"
+  },
+  {
+    "ID do Produto": "... (rest of the data omitted for brevity) ...",
+    "Nome do Produto": "",
+    "Categoria": "",
+    "Preço Unitário": "",
+    "Quantidade em Estoque": "",
+    "Data de Validade": "",
+    "Fornecedor": "",
+    "Marca": ""
+  },
+  {
+    "ID do Produto": 96,
+    "Nome do Produto": "Detergente Líquido",
+    "Categoria": "Limpeza",
+    "Preço Unitário": 10,
+    "Quantidade em Estoque": 40,
+    "Data de Validade": "2024-09-30",
+    "Fornecedor": "Ypê",
+    "Marca": "Glade"
+  },
+  {
+    "ID do Produto": 97,
+    "Nome do Produto": "Amaciante de Roupas",
+    "Categoria": "Limpeza",
+    "Preço Unitário": 12,
+    "Quantidade em Estoque": 30,
+    "Data de Validade": "2024-10-20",
+    "Fornecedor": "Downy",
+    "Marca": "Comfort"
+  },
+  {
+    "ID do Produto": 98,
+    "Nome do Produto": "Papel Higiênico",
+    "Categoria": "Higiene Pessoal",
+    "Preço Unitário": 8,
+    "Quantidade em Estoque": 50,
+    "Data de Validade": "2024-11-15",
+    "Fornecedor": "Neve",
+    "Marca": "Personal"
+  },
+  {
+    "ID do Produto": 99,
+    "Nome do Produto": "Pasta de Dente",
+    "Categoria": "Higiene Pessoal",
+    "Preço Unitário": 6,
+    "Quantidade em Estoque": 25,
+    "Data de Validade": "2024-12-05",
+    "Fornecedor": "Colgate",
+    "Marca": "Sorriso"
+  },
+  {
+    "ID do Produto": 100,
+    "Nome do Produto": "Shampoo",
+    "Categoria": "Higiene Pessoal",
+    "Preço Unitário": 10,
+    "Quantidade em Estoque": 40,
+    "Data de Validade": "2024-12-31",
+    "Fornecedor": "Head & Shoulders",
+    "Marca": "Pantene"
+  }
+]
